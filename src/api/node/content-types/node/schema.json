@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "nodes",
+  "info": {
+    "singularName": "node",
+    "pluralName": "nodes",
+    "displayName": "node"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "disc": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
