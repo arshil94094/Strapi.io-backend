@@ -16,7 +16,7 @@
     "better-sqlite3": "8.6.0",
     "cross-env": "^7.0.3",
     "pg": "^8.11.3",
-    "strapi-connector-mongoose": "^3.6.11",
+    "pg-connection-string": "^2.6.2",
     "strapi-plugin-vercel-deploy": "^1.4.0"
   },
   "author": {
